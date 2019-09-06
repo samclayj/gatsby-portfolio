@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog.samcj.com",
-    "contentApiKey": "c491c4fc225746bba58e2870f8"
+    "apiUrl": "https://blog.austincoding.company",
+    "contentApiKey": "259d37317f6a814d2d8673e41d"
   },
   "production": {
-    "apiUrl": "https://blog.samcj.com",
-    "contentApiKey": "c491c4fc225746bba58e2870f8"
+    "apiUrl": "https://blog.austincoding.company",
+    "contentApiKey": "259d37317f6a814d2d8673e41d"
   }
 }
